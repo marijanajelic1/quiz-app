@@ -1,0 +1,342 @@
+[
+  {
+    "text": "Koja država je najveće ostrvo i najmanji kontinent na svetu?",
+    "answer": "Australija",
+    "fieldId": "1"
+  },
+  {
+    "text": "Koja država ima najviše vrsta piva na svetu i najviše pivara po glavi stanovnika?",
+    "answer": "Belgija",
+    "fieldId": "1"
+  },
+  {
+    "text": "Ova država se graniči sa Srbijom i leži na istočnoj obali Jadranskog mora",
+    "answer": "Crna Gora",
+    "fieldId": "1"
+  },
+  {
+    "text": "Država u kojoj svaki drugi dan pada kiša ili sneg i koja je 2009. godine imala 184 dana padavina.",
+    "answer": "Danska",
+    "fieldId": "1"
+  },
+  {
+    "text": "Država u kojoj se nalazi Sfinga i Velike piramide.",
+    "answer": "Egipat",
+    "fieldId": "1"
+  },
+  {
+    "text": "Građani ove države u proseku popiju 85 litra piva godišnje.",
+    "answer": "Finska",
+    "fieldId": "1"
+  },
+  {
+    "text": "Ova država proizvodi vino već 8.000 godina i smatra se rodnim mestom vinarstva.",
+    "answer": "Gruzija",
+    "fieldId": "1"
+  },
+  {
+    "text": "Država na Karibima čije ime potiče od reči ajiti, što znači zemlja visokih planina.",
+    "answer": "Haiti",
+    "fieldId": "1"
+  },
+  {
+    "text": "Država sa tri aktivna vulkana: Vezuv, Etnu i Stromboli je?",
+    "answer": "Italija",
+    "fieldId": "1"
+  },
+  {
+    "text": "U ovoj državi je pismenost gotovo 100%.",
+    "answer": "Japan",
+    "fieldId": "1"
+  },
+  {
+    "text": "Domaćin Svetskog prvenstva u fudbalu 2022. godine.",
+    "answer": "Katar",
+    "fieldId": "1"
+  },
+  {
+    "text": "Država na zapadu Evrope sa istoimenim glavnim gradom.",
+    "answer": "Luksemburg",
+    "fieldId": "1"
+  },
+  {
+    "text": "Zastava ove države je crvene boje sa zelenim pentagramom u sredini.",
+    "answer": "Maroko",
+    "fieldId": "1"
+  },
+  {
+    "text": "Glavni grad ove Evropske države je Berlin.",
+    "answer": "Nemacka",
+    "fieldId": "1"
+  },
+  {
+    "text": "Prestonica Grčke je?",
+    "answer": "Atina",
+    "fieldId": "2"
+  },
+  {
+    "text": "Glavni grad Srbije.",
+    "answer": "Beograd",
+    "fieldId": "2"
+  },
+  {
+    "text": "Najveći grad Švajcarske.?",
+    "answer": "Cirih",
+    "fieldId": "2"
+  },
+  {
+    "text": "Glavni grad američke savezne države Kolorado je?",
+    "answer": "Denver",
+    "fieldId": "2"
+  },
+  {
+    "text": "Glavni grad Škotske.",
+    "answer": "Edinburg",
+    "fieldId": "2"
+  },
+  {
+    "text": "Naziv grada u kome se nalazi Fontana del Porcellino.",
+    "answer": "Firenca",
+    "fieldId": "2"
+  },
+  {
+    "text": "Glavni grad Čečenske Republike je?",
+    "answer": "Grozni",
+    "fieldId": "2"
+  },
+  {
+    "text": "Drugi po veličini grad u Nemačkoj.",
+    "answer": "Hamburg",
+    "fieldId": "2"
+  },
+  {
+    "text": "Glavni grad Pakistana.",
+    "answer": "Islamabad",
+    "fieldId": "2"
+  },
+  {
+    "text": "Najsvetiji grad Judaizma i duhovni centar Jevrejskog naroda.",
+    "answer": "Jerusalim",
+    "fieldId": "2"
+  },
+  {
+    "text": "Najveći i glavni grad Egipta.",
+    "answer": "Kairo",
+    "fieldId": "2"
+  },
+  {
+    "text": "Najpoznatiji i najveći sat na svetu Big Ben se nalazi u ovom gradu.",
+    "answer": "London",
+    "fieldId": "2"
+  },
+  {
+    "text": "Glavni grad Mozambika.",
+    "answer": "Maputo",
+    "fieldId": "2"
+  },
+  {
+    "text": "Treći grad po veličini u Srbiji.",
+    "answer": "Nis",
+    "fieldId": "2"
+  },
+  {
+    "text": "Koja reka nema nijedan most?",
+    "answer": "Amazon",
+    "fieldId": "3"
+  },
+  {
+    "text": "Reka čiji naziv je srpsko žensko ime, a nalazi se na granici Crne Gore i Albanije je?",
+    "answer": "Bojana",
+    "fieldId": "3"
+  },
+  {
+    "text": "Kako se zove reka koja protiče kroz Hrvatsku, a njen najveći vodopad je Velika Gubavica?",
+    "answer": "Cetina",
+    "fieldId": "3"
+  },
+  {
+    "text": "Ova reka protiče kroz Beograd, Budimpeštu, Beč....",
+    "answer": "Dunav",
+    "fieldId": "3"
+  },
+  {
+    "text": "Reka koje protiče kroz Mesopotaniju i njen naziv potiče iz persijskog jezika, a u prevodu znaci \"jednostavna za prelaz\" je? ",
+    "answer": "Eufrat",
+    "fieldId": "3"
+  },
+  {
+    "text": "Najduža reka u nemačkoj državi Hesen duga 220,7 km.",
+    "answer": "Fulda",
+    "fieldId": "3"
+  },
+  {
+    "text": "Ova reka protiče kroz Njujork.",
+    "answer": "Hadson",
+    "fieldId": "3"
+  },
+  {
+    "text": "Brza planinska reka koja izvire na severnoj strani planine Hajla.",
+    "answer": "Ibar",
+    "fieldId": "3"
+  },
+  {
+    "text": "Reka u opštini Loznica u zapadnoj Srbiji.",
+    "answer": "Jadar",
+    "fieldId": "3"
+  },
+  {
+    "text": "Reka koja nastaje od Obnice i Jablanice u Valjevu duga 123 km je?",
+    "answer": "Kolubara",
+    "fieldId": "3"
+  },
+  {
+    "text": "Na ovoj reci su podignute dve hidroelektrane Potpeć i Bistrica.",
+    "answer": "Lim",
+    "fieldId": "3"
+  },
+  {
+    "text": "Najduža reka Severne Amerike, a sa Misurijem je četvrta po dužini u svetu.",
+    "answer": "Misisipi",
+    "fieldId": "3"
+  },
+  {
+    "text": "Najhladnija reka na svetu.",
+    "answer": "Neretva",
+    "fieldId": "3"
+  },
+  {
+    "text": "Jedna od najvećih zmija na svetu čiji naziv počinje na slovo 'A'.",
+    "answer": "Anakonda",
+    "fieldId": "4"
+  },
+  {
+    "text": "Drugi naziv za pavijana.",
+    "answer": "Babun",
+    "fieldId": "4"
+  },
+  {
+    "text": "Krilati insekt koji uz pomoć aparata ispušta cvrkut koji možemo čuti je?",
+    "answer": "Cvrcak",
+    "fieldId": "4"
+  },
+  {
+    "text": "Vodeni sisar koji je poznat po svom prijateljskom odnosu prema ljudima.",
+    "answer": "Delfin",
+    "fieldId": "4"
+  },
+  {
+    "text": "Druga po veličini savremena ptica koja naseljava Australiju.",
+    "answer": "Emu",
+    "fieldId": "4"
+  },
+  {
+    "text": "Ugrožena vrsta iz porodice mačaka i najbrža kopnena životinja je?",
+    "answer": "Gepard",
+    "fieldId": "4"
+  },
+  {
+    "text": "Popularan kućni ljubimac iz potporodice glodara, omiljen među decom.",
+    "answer": "Hrcak",
+    "fieldId": "4"
+  },
+  {
+    "text": "U Finskoj ova životinja tradicionalno vuče sanke.",
+    "answer": "Irvas",
+    "fieldId": "4"
+  },
+  {
+    "text": "Može biti i kućni ljubimac, telo mu prekrivaju bodlje.",
+    "answer": "Jez",
+    "fieldId": "4"
+  },
+  {
+    "text": "Najmanje ptice selice na svetu i jedine koje mogu da lete unazad.",
+    "answer": "Kolibri",
+    "fieldId": "4"
+  },
+  {
+    "text": "Jedan horoskopski znak nosi naziv ove životinje poznate kao kralj dzungle.",
+    "answer": "Lav",
+    "fieldId": "4"
+  },
+  {
+    "text": "Naziv hibrida nastalog ukrštanjem magarice sa pastuvom?",
+    "answer": "Mazga",
+    "fieldId": "4"
+  },
+  {
+    "text": "Ova zivotinja je dobila ime po rogu na svojoj njušci.",
+    "answer": "Nosorog",
+    "fieldId": "4"
+  },
+  {
+    "text": "Za internacionalni simbol dobrodošlice smatra se?",
+    "answer": "Ananas",
+    "fieldId": "5"
+  },
+  {
+    "text": "Postoje četiri vrste ove biljke. Koristi se kao začin, ali i kao lek.",
+    "answer": "Biber",
+    "fieldId": "5"
+  },
+  {
+    "text": "Ova biljka je 95% vode, dobar je izvor vitamina K i sadrži androsteron, hormon za koji se smatra da privlaci žene",
+    "answer": "Celer",
+    "fieldId": "5"
+  },
+  {
+    "text": "Listovi ove biljke se koriste za pušenje.",
+    "answer": "Duvan",
+    "fieldId": "5"
+  },
+  {
+    "text": "Biljka koja sadrži eukaliptol koji se koristi u mnogim lekovima protiv kašlja i prehlade.",
+    "answer": "Eukaliptus",
+    "fieldId": "5"
+  },
+  {
+    "text": "Popularna sobna drvenasta biljka, laka za održavanje.",
+    "answer": "Fikus",
+    "fieldId": "5"
+  },
+  {
+    "text": "Smatra se za jednu od najlekovitijih biljaka na svetu, posebno delotvornom za srce.",
+    "answer": "Glog",
+    "fieldId": "5"
+  },
+  {
+    "text": "Postoje četiri vrste ove biljke. Koristi se kao začin, ali i kao lek.",
+    "answer": "Biber",
+    "fieldId": "5"
+  },
+  {
+    "text": "Nacionalno drvo SAD-a, Engleske i Nemačke je?",
+    "answer": "Hrast",
+    "fieldId": "5"
+  },
+  {
+    "text": "Lekovita biljka koja takođe može biti i parazit koji napada drveće.",
+    "answer": "Imela",
+    "fieldId": "5"
+  },
+  {
+    "text": "List ove biljke je simbol Kanade i nalazi se na njenoj zastavi.",
+    "answer": "Javor",
+    "fieldId": "5"
+  },
+  {
+    "text": "Plod ove biljke je proglašen za nacionalno voće u Kini.",
+    "answer": "Kivi",
+    "fieldId": "5"
+  },
+  {
+    "text": "Popularno letnje povrće, spolja zelene, a unutra crvene boje.",
+    "answer": "Lubenica",
+    "fieldId": "5"
+  },
+  {
+    "text": "Voće od koga se pravi ulje, a može biti zelene, crne, ljubičaste, tamno braon i roze boje.",
+    "answer": "Maslina",
+    "fieldId": "5"
+  }
+]

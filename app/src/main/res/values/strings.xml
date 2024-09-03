@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="quiz">Quiz</string>
+    <string name="app">app</string>
+    <string name="start_quiz">Započni kviz</string>
+    <string name="add_questions">Dodaj pitanja</string>
+    <string name="delete_questions">Obriši pitanja</string>
+    <string name="try_again">Pokusajte ponovo</string>
+    <string name="congratulations">Čestitamo</string>
+    <string name="number_of_right_answers">Broj tačnih odgovora</string>
+    <string name="no_right_answers">Nemate tačnih odgovora</string>
+    <string name="close">Zatvori</string>
+    <string name="new_round">Nova runda</string>
+    <string name="fields">Oblasti</string>
+    <string name="back">Nazad</string>
+    <string name="confirm_delete">Potvrda brisanja</string>
+    <string name="are_you_sure_you_want_to_delete_question">Da li ste sigurni da želite da obrišete pitanje</string>
+    <string name="delete">Obriši</string>
+    <string name="type_your_answer">Napišite vaš odgovor</string>
+    <string name="confirm">Potvrdi</string>
+    <string name="add_question">Dodaj pitanje</string>
+    <string name="choose_field">Izaberite oblast</string>
+    <string name="question_text">Tekst pitanja</string>
+    <string name="answer">Odgovor</string>
+    <string name="field">Oblast</string>
+    <string name="add">Dodaj</string>
+    <string name="question_added_successfully">Pitanje uspešno dodato</string>
+    <string name="error_while_adding_question">Greška prilikom dodavanja pitanja</string>
+
+</resources>

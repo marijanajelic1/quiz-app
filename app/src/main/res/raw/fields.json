@@ -1,0 +1,23 @@
+[
+  {
+    "id":1,
+    "name":"Države "
+  },
+  {
+    "id":2,
+    "name":"Gradovi"
+  },
+  {
+    "id":3,
+    "name":"Reke"
+  },
+  {
+    "id":4,
+    "name":"Životinje"
+  },
+  {
+    "id":5,
+    "name":"Biljke"
+  }
+
+]
